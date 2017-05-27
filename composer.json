@@ -1,0 +1,14 @@
+{
+    "name": "johnmccracken/test-driven-development-example",
+    "description": "A brief example process on implementing TDD",
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "John McCracken",
+            "email": "johnmccuk@gmail.com"
+        }
+    ],
+    "require": {}
+}
