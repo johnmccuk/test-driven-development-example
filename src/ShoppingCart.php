@@ -17,7 +17,6 @@ class ShoppingCart
         'cartTotalIncludingTax' => 0.00,     
     ];
 
-
      /*
      * @method __construct
      *
